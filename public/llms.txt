@@ -1,0 +1,66 @@
+# אלירנס — Generative Engine Optimization Map
+
+> A shoe store business seeking a stunning landing page to showcase their footwear products and attract customers. The emphasis on 'מרהיב' (stunning/impressive) suggests a desire for a visually striking and high-impact online presence.
+
+---
+
+## Pages
+
+### בית
+https://-8c923ba5.zappy5.app
+A shoe store business seeking a stunning landing page to showcase their footwear products and attract customers. The emphasis on &#39;מרהיב&#39; (stunning/impressive) s
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8c923ba5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8c923ba5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8c923ba5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-8c923ba5.zappy5.app
+- Endpoint: https://-8c923ba5.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אלירנס
+A shoe store business seeking a stunning landing page to showcase their footwear products and attract customers. The emphasis on 'מרהיב' (stunning/impressive) suggests a desire for a visually striking and high-impact online presence.
+
+## Target Audience
+- אופנתיים עירוניים
+- צעירים עם אורח חיים פעיל
+- נשים מקצועיות
+
+## Industry
+קמעונאות נעליים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-8c923ba5.zappy5.app/sitemap.xml
+- Robots: https://-8c923ba5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-8c923ba5.zappy5.app/llms-full.txt
