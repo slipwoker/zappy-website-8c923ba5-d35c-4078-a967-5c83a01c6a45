@@ -56,10 +56,10 @@ Description: A shoe store business seeking a stunning landing page to showcase t
 
 
 
-- תכונות
 - גלריה
 - יתרונות
 - המלצות
+- תכונות
 - נתונים
 
 
